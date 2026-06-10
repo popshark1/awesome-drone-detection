@@ -1,5 +1,5 @@
 # awesome-drone-detection
-List of awesome open source tools to detect drones 
+List of awesome open source and free tools to detect drones 
 
 Acoustic solution to detect drones
 
@@ -12,6 +12,8 @@ https://github.com/batear-io/batear
 2.Drone Sound Alert
 Android app
 Open source
+
+www.dronesoundalert.com
 
 https://sites.google.com/view/dronesoundalert/home
 

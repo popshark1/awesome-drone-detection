@@ -5,6 +5,9 @@ Acoustic solution to detect drones
 
 
 1.batear
+
+Drone detection based on ESP32 and cheap microphone with options for Lora mesh network and wire solution.
+
 https://www.batear.io
 
 https://github.com/batear-io/batear
